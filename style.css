@@ -28,6 +28,7 @@ section{
     float: left;
     overflow: auto;
     width: 495px;
+    height: 285px;
     background: #ebebeb;
     padding: 5px;
     margin: 10px;
@@ -43,7 +44,7 @@ aside{
     padding: 5px;
     margin: 10px;
     width: 405px;
-    height: 253px;
+    height: 285px;
 }
 footer{
     clear: both;
